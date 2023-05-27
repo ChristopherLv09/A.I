@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/8EQ9ZRngLeIAAAAC/smile-ice-bear.gif" alt="GIF" width="400">
+  <img src="https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif" alt="GIF" width="400">
 </p>
 
 <h1 align="center">🥃 Christopher Livingstom 🥃</h1>
